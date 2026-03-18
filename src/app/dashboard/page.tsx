@@ -1,7 +1,0 @@
-import React from "react";
-
-const Dashboard = () => {
-  return <div>대시보드 page</div>;
-};
-
-export default Dashboard;
